@@ -1,0 +1,53 @@
+baseURL = "https://sulfur-notes.netlify.app/"
+languageCode = "en-us"
+title = "Sulfurs Pesonal Notes"
+theme = "anatole"
+enableRobotsTXT = "true"
+
+[params]
+title = "Sulfur's Notes"
+author = "Sulfur Cholride"
+description = "I do stuff"
+profilePicture = "images/profile.svg"
+javascriptLicense = "license/javascript.html"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Year1"
+  weight = 200
+  identifier = "Year1"
+  url = "/year1/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about"
+
+# [[params.socialIcons]]
+# icon = "fa-linkedin"
+# title = "Linkedin"
+# url = "https://de.linkedin.com/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "example.com"
+
+[[params.socialIcons]]
+icon = "fa-rss"
+title = "e-mail"
+url = "/posts/index.xml"
+
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto:"

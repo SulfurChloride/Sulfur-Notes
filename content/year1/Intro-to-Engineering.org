@@ -1,0 +1,133 @@
+#+TITLE: Introduction To Engineering
+
+* Module 1: The Engineering Profession
+** Definition According to *ABET*
+The Profession in which knowledge of Math and Science is applied to utilize the
+materials and forces of nature for the benefit of mankind.
+** Scientist vs Engineer
++ *Scientist:* uses knowledge to *acquire* new  knowledge
++ *Engineer:* Uses knowledge to do (develop, design,...)
+  
+** Engineering Team
++ *Engineer:* design, research, develop, /supervise/ the other 3
++ *Technologist:* Technical Sales, Hardware design,
++ *Technician:* Estimating, Data collection, Technical Writing
++ *Craftsman:* hand power
+** Main Fields of specializations 
++ Chemical:  New fuels, medicines,  vaccines, serum, plastics
++ Civil: Construction
++ Electrical: Electrical devices, systems
++ Mechanical:  Design and manufacture machine tools
+  
+** Other Fields of specialization
++ Bio engineering: Engineering to the study of biological processes
++ Computer : Design of digital systems
++ Industrial Concerned with economy, time, .....
++ Aerospace: ...
++ Material: use of material
+  - Metallurgical engineering
+  - Mining engineering
+  
+** Career Paths for Engineers
++ The corporate ladder
++ The independent entrepreneur
++ ThE MiLiTaRy
++ The Professor-engineer
+** Preparing for a global Career
++ language proficiency
++ study abroad
++ Co-ops and internships
+
+**  Responsibilities of professional Engineers
++ Pass education and knowledge
++ sense of responsibility and service to  others
++ follow codes of ethics
+  
+** ethics?
+*** What is ethics?
++ Study of the characteristics of morals
++ Decide what is the right thing to do
+*** Examples Dealing with
++ Colleagues
++ clients
++ public
+*** Focus on ethics to
++ Make decisions
++ Take action
++ personal integrity
+** Fundamental Canons
++ paramount the saftey, health and welfare of the public. Sustinable Development.
++ service in areas of competence
++ Truth...
++ act professionally
++ compete fairly
++ care about honor and dignity of Engineering
++ provide oppurtunities for professional development.
+* Module 2: Engineering Communication
+** Communication Information Sources
++ WWW: Internet
++ scholrly journals
++ Text books
++ refrence sources
++ virtual communities
++ Colleagues
++ full-text databases
+** WAIT Evaluting resources with CARDS
+1. *Credibility:*  who is the source? respected site? is the author a professo?
+2. *Accuracy:* Does the info exist on other site? are there errors?
+3. *Relevancy:* Is the site relevant to the project or problem?
+4. *Date:* Is the site up-to-date? does the site have dead links?
+5. *Source:* Does the page site other print or electronic resources?
+** WAIT Where to locate Information
+*** Databases:
+Qualitry databases
+1. Compendex (Engineering)
+2. Web of Science (Science)
+3. SciFinder (Chemistry)
+4. Inspec (Physics, Computer Science)
+*** Print Reference Sources
+Printed are Sources are generally more authoritive and controlled.
+*** Web source
++ The best why to locate Qualitry Information
+**** Example sites from professional Engineering organizations
++ Institue of Electrical and electronics Engineers https://ieee.org
++ American Society of Mechanical Engineers https://asme.org
++ American Society of Civil Engineers https://asce.org
++ American Institue of Chemical Engineers https://aiche.org
+*** Engineers as a writer
+Likekly  write:
++ *Memoranda:*
+  for Internal correspondence in companies. Short, deals with one subjes
++ *E-mails:*
+  Most Engineers communicate primarly with Email.
++ *Technical reports:* 
+  communicate work result
++ *Letters:* 
++ *journal articles:* 
++ *specifications:* 
+**** Writing is POWER (cringe)
++ P: Plane
++ O: Organize
++ E: Edit
++ R: Revise
+*** Engineer as a speaker
+SuCcEsSfUl EngInEeR
+**** Effectice speaking tips
++ Be Prepared
++ Practice
++ Engage Audiance
++ Speak Clearly
++ Look in the EYE
++ Write little
++ Visual aid 
+  - Show less than 30 seconds of material
+  - use meaningful photos
+  - font large enough
+  - check equipement
+  - Keep it simple
+    + Round off numbers
+    + use symbols
+    + Dont use Footnotes
+    + Avoid Underlines
+    + Use colors with PuRpOsE
+  
