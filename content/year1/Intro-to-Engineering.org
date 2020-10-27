@@ -108,6 +108,7 @@ Likekly  write:
 **** Writing is POWER (cringe)
 + P: Plane
 + O: Organize
++ W: Write
 + E: Edit
 + R: Revise
 *** Engineer as a speaker
